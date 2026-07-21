@@ -83,11 +83,21 @@ User Registration and Login Screen
 Hiding password entry with asterisks
 ![Password Creation](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/aac5df80875b206182b9cd102fa5c823f52d6499/Screenshots/Screenshot_2_Password_Hiding.png)
 
-3 - Main Menu
-4 - Adding expenses
-5 - Displaying expenses and remaining savings
-6 - Goals Menu
-7 - Class Diagram
+Main Menu
+![Main Menu](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/9c88ef701ca21719943eaabf4df12b4821d02c93/Screenshots/Screenshot_3_Main_Menu.png)
+
+Adding expenses
+![Adding Expenses](
+
+Displaying expenses and remaining savings
+![Displaying Expenses and Savings](
+
+Goals Menu
+![Goals Menu](
+
+Class Diagram
+![Class Diagram](
+
 
 **Result**
 
