@@ -60,7 +60,6 @@ Track-o
 
 
 **What I Learned**
-
 Developing this project strengthened my understanding of:
 - Object-oriented software design
 - Class relationships and inheritance
@@ -75,7 +74,6 @@ expenses and goals.
 
 
 **Future Improvements**
-
 Some features I would like to add include:
 - Data persistence using files or a database
 - Monthly spending reports
@@ -84,7 +82,6 @@ Some features I would like to add include:
 
 
 **Screenshots**
-
 Refer to screenshots 1 to 7 in repository folder to see:
 1 - User Registration and Login Screen
 2 - Hiding password entry with asterisks
@@ -96,12 +93,10 @@ Refer to screenshots 1 to 7 in repository folder to see:
 
 
 **Result**
-
 A+ (100%)
 
 
 **Author**
-
 Jesse Lockwood
 (This project was completed in collaboration with one classmate. My primary contributions included implementing the expense management system,
 savings and goals functionality, and the application's overall logic and design)
