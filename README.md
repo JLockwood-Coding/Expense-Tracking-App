@@ -93,7 +93,7 @@ Displaying expenses and remaining savings
 ![Displaying Expenses and Savings](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/034f3e7f611e1e4ee4f0ab5f1d052fcac7d6c243/Screenshots/Screenshot_5_Displaying_Expenses_And_Savings.png)
 
 Goals Menu
-![Goals Menu](
+![Goals Menu](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/d5eb70e84edd8a6c76df972ff2b077b81c0b743e/Screenshots/Screenshot_6_Goals_Menu.png)
 
 Class Diagram
 ![Class Diagram](
