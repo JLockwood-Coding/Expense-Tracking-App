@@ -1,12 +1,15 @@
-**Track-o - Expense Tracking Application**
+# Track-o - Expense Tracking Application
 
-**Overview**
+## Overview
 
-Track-o is a console-based expense tracking application developed in C# as part of my Bachelor of Information Technology at Whitireia & Weltec.
+**Track-o** is a console-based expense tracking application developed in C# as part of my Bachelor of Information Technology at Whitireia & Weltec.
 The project was designed to help users record and manage expenses, track savings, and work towards financial goals while
 demonstrating object-oriented programming principles.
 
-**Features**
+---
+
+## Features
+
 - User registration and login
 - Support for multiple user accounts with individual records
 - Add, edit and remove expenses
@@ -18,44 +21,47 @@ demonstrating object-oriented programming principles.
 - Calculate remaining available funds
 - Display expenses
 
-**Technologies Used**
+---
+
+## Technologies Used
+
 - C#
 - .NET
 - Visual Studio 2022
 - Object-Oriented Programming
 
-**OOP Concepts Implemented**
+---
+
+## OOP Concepts Implemented
 
 This project was built using several object-oriented programming principles, including:
 - Encapsulation through private fields and public methods
 - Inheritance using a base Expense class with specialised expense types
 - Abstraction through separate classes
 
-**Project Structure**
+---
 
+## Project Structure
+
+```text
 Track-o
-
 ├── Program.cs
-
 ├── User.cs
-
 ├── LoginManager.cs
-
 ├── Expense.cs
-
 ├── FoodExpense.cs
-
 ├── TravelExpense.cs
-
 ├── LuxuryExpense.cs
-
 ├── BillsExpense.cs
-
 └── Goals.cs
+```
 
-**What I Learned**
+---
+
+## What I Learned
 
 Developing this project strengthened my understanding of:
+
 - Object-oriented software design
 - Class relationships and inheritance
 - Input validation
@@ -67,15 +73,20 @@ One of the biggest challenges was implementing the savings goal system while ens
 Solving this required redesigning several methods and improving the interaction between user savings,
 expenses and goals.
 
-**Future Improvements**
+---
+
+## Future Improvements
 
 Some features I would like to add include:
+
 - Data persistence using files or a database
 - Monthly spending reports
 - Graphical user interface
 - Improved searching and filtering
 
-**Screenshots**
+---
+
+## Screenshots
 
 ![Login Screen](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/63520942390fc178cfc9e1e98f175283e0641c1c/Screenshots/Screenshot_1_User%20Registration.png)
 
@@ -91,12 +102,15 @@ Some features I would like to add include:
 
 ![Class Diagram](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/8248063b57a94c9fb10fd30fa02d1626b881b02c/Screenshots/Screenshot_7_Class_Diagram.png)
 
+---
 
-**Result**
+## Result
 
 A+ (100%)
 
-**Author**
+---
+
+## Author
 
 Jesse Lockwood
 
