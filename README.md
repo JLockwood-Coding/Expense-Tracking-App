@@ -1,6 +1,7 @@
 **Track-o - Expense Tracking Application**
 
 **Overview**
+
 Track-o is a console-based expense tracking application developed in C# as part of my Bachelor of Information Technology at Whitireia & Weltec.
 The project was designed to help users record and manage expenses, track savings, and work towards financial goals while
 demonstrating object-oriented programming principles.
@@ -24,6 +25,7 @@ demonstrating object-oriented programming principles.
 - Object-Oriented Programming
 
 **OOP Concepts Implemented**
+
 This project was built using several object-oriented programming principles, including:
 - Encapsulation through private fields and public methods
 - Inheritance using a base `Expense` class with specialised expense types
@@ -32,13 +34,21 @@ This project was built using several object-oriented programming principles, inc
 **Project Structure**
 Track-o
 ├── Program.cs
+
 ├── User.cs
+
 ├── LoginManager.cs
+
 ├── Expense.cs
+
 ├── FoodExpense.cs
+
 ├── TravelExpense.cs
+
 ├── LuxuryExpense.cs
+
 ├── BillsExpense.cs
+
 └── Goals.cs
 
 **What I Learned**
