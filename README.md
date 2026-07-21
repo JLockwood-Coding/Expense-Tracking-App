@@ -1,11 +1,11 @@
-Track-o - Expense Tracking Application
+**Track-o - Expense Tracking Application**
 
-Overview
+**Overview**
 Track-o is a console-based expense tracking application developed in C# as part of my Bachelor of Information Technology at Whitireia & Weltec.
 The project was designed to help users record and manage expenses, track savings, and work towards financial goals while
 demonstrating object-oriented programming principles.
 
-Features
+**Features**
 - User registration and login
 - Support for multiple user accounts with individual records
 - Add, edit and remove expenses
@@ -17,19 +17,19 @@ Features
 - Calculate remaining available funds
 - Display expenses
 
-Technologies Used
+**Technologies Used**
 - C#
 - .NET
 - Visual Studio 2022
 - Object-Oriented Programming
 
-OOP Concepts Implemented
+**OOP Concepts Implemented**
 This project was built using several object-oriented programming principles, including:
 - Encapsulation through private fields and public methods
 - Inheritance using a base `Expense` class with specialised expense types
 - Abstraction through separate classes
 
-Project Structure
+**Project Structure**
 Track-o
 ├── Program.cs
 ├── User.cs
@@ -41,7 +41,7 @@ Track-o
 ├── BillsExpense.cs
 └── Goals.cs
 
-What I Learned
+**What I Learned**
 Developing this project strengthened my understanding of:
 - Object-oriented software design
 - Class relationships and inheritance
@@ -54,14 +54,14 @@ One of the biggest challenges was implementing the savings goal system while ens
 Solving this required redesigning several methods and improving the interaction between user savings,
 expenses and goals.
 
-Future Improvements
+**Future Improvements**
 Some features I would like to add include:
 - Data persistence using files or a database
 - Monthly spending reports
 - Graphical user interface
 - Improved searching and filtering
 
-Screenshots
+**Screenshots**
 Refer to screenshots 1 to 7 in repository folder to see:
 1 - User Registration and Login Screen
 2 - Hiding password entry with asterisks
@@ -71,10 +71,10 @@ Refer to screenshots 1 to 7 in repository folder to see:
 6 - Goals Menu
 7 - Class Diagram
 
-Result
+**Result**
 A+ (100%)
 
-Author
+**Author**
 Jesse Lockwood
 (This project was completed in collaboration with one classmate. My primary contributions included implementing the expense management system,
 savings and goals functionality, and the application's overall logic and design)
