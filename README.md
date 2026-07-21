@@ -77,26 +77,19 @@ Some features I would like to add include:
 
 **Screenshots**
 
-User Registration and Login Screen
 ![Login Screen](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/63520942390fc178cfc9e1e98f175283e0641c1c/Screenshots/Screenshot_1_User%20Registration.png)
 
-Hiding password entry with asterisks
 ![Password Creation](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/aac5df80875b206182b9cd102fa5c823f52d6499/Screenshots/Screenshot_2_Password_Hiding.png)
 
-Main Menu
 ![Main Menu](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/9c88ef701ca21719943eaabf4df12b4821d02c93/Screenshots/Screenshot_3_Main_Menu.png)
 
-Adding expenses
 ![Adding Expenses](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/33c60a17503a37a3adc120f021235c00a1d51928/Screenshots/Screenshot_4_Adding_Expense.png)
 
-Displaying expenses and remaining savings
 ![Displaying Expenses and Savings](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/034f3e7f611e1e4ee4f0ab5f1d052fcac7d6c243/Screenshots/Screenshot_5_Displaying_Expenses_And_Savings.png)
 
-Goals Menu
 ![Goals Menu](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/d5eb70e84edd8a6c76df972ff2b077b81c0b743e/Screenshots/Screenshot_6_Goals_Menu.png)
 
-Class Diagram
-![Class Diagram](
+![Class Diagram](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/8248063b57a94c9fb10fd30fa02d1626b881b02c/Screenshots/Screenshot_7_Class_Diagram.png)
 
 
 **Result**
