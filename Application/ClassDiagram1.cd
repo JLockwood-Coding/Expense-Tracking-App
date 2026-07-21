@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalProject_LG_JL.Program">
+    <Position X="9.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject_LG_JL.LoginManager">
+    <Position X="7.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAAAAAAABAAAAAAAQAAAAgAA=</HashCode>
+      <FileName>LoginManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject_LG_JL.User">
+    <Position X="9.5" Y="2.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAIAAAAAzAAAAEAAAKAAAACBQAgAhEAIAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject_LG_JL.Expense">
+    <Position X="5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAACEAAAAgAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Expense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject_LG_JL.FoodExpense">
+    <Position X="2.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FoodExpense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject_LG_JL.TravelExpense">
+    <Position X="4.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TravelExpense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject_LG_JL.LuxuryExpense">
+    <Position X="6" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LuxuryExpense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject_LG_JL.BillsExpense">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BillsExpense.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject_LG_JL.Goals">
+    <Position X="12.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAQAAAAEAACAAAAAgAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Goals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

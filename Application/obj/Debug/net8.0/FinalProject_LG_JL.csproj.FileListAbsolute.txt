@@ -1,0 +1,126 @@
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.exe
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\FinalProject_LG_JL\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.exe
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.dll
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.dll
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+D:\Assessments\FinalProject_LG_JL_v1\FinalProject_LG_JL\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.dll
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.exe
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.dll
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+D:\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.exe
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v3\FinalProject_LG_JL\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.exe
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v4\FinalProject_LG_JL\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.exe
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v5\FinalProject_LG_JL\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.exe
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\Jesse Lockwood's Weltec Study\Courses\NZDIS\FinalProject_LG_JL_v6_FINAL\FinalProject_LG_JL\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\bin\Debug\net8.0\FinalProject_LG_JL.exe
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\bin\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\bin\Debug\net8.0\FinalProject_LG_JL.exe
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\bin\Debug\net8.0\FinalProject_LG_JL.deps.json
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\bin\Debug\net8.0\FinalProject_LG_JL.runtimeconfig.json
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\bin\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\bin\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\FinalProject_LG_JL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfoInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\FinalProject_LG_JL.AssemblyInfo.cs
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\FinalProject_LG_JL.csproj.CoreCompileInputs.cache
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\refint\FinalProject_LG_JL.dll
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\FinalProject_LG_JL.pdb
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\FinalProject_LG_JL.genruntimeconfig.cache
+C:\Users\jesse\OneDrive\Desktop\Track-o Expense Tracking App\Application\obj\Debug\net8.0\ref\FinalProject_LG_JL.dll
