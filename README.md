@@ -28,7 +28,7 @@ demonstrating object-oriented programming principles.
 
 This project was built using several object-oriented programming principles, including:
 - Encapsulation through private fields and public methods
-- Inheritance using a base `Expense` class with specialised expense types
+- Inheritance using a base Expense class with specialised expense types
 - Abstraction through separate classes
 
 **Project Structure**
