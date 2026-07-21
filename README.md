@@ -79,6 +79,7 @@ Some features I would like to add include:
 
 Refer to screenshots 1 to 7 in repository folder to see:
 1 - User Registration and Login Screen
+![Login Screen](https://github.com/JLockwood-Coding/Expense-Tracking-App/blob/63520942390fc178cfc9e1e98f175283e0641c1c/Screenshots/Screenshot_1_User%20Registration.png)
 2 - Hiding password entry with asterisks
 3 - Main Menu
 4 - Adding expenses
