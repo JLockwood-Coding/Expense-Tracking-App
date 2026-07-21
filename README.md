@@ -93,8 +93,10 @@ A+ (100%)
 **Author**
 
 Jesse Lockwood
+
 (This project was completed in collaboration with one classmate. My primary contributions included implementing the expense management system,
 savings and goals functionality, and the application's overall logic and design)
 
 Bachelor of Information Technology
+
 Whitireia & Weltec
